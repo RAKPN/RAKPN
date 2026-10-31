@@ -1,4 +1,11 @@
 ## Hi there 👋
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=RAKPN&color=ff2d95&theme=dark&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=RAKPN&color=ff2d95&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=RAKPN&color=ff2d95&theme=light&mode=mono&preset=githubblue&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
+</a>
 
 <!--
 **RAKPN/RAKPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
